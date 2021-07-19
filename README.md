@@ -2,7 +2,5 @@
 Smiling face emoji to make your day happier. 
 Using HTML and CSS.
 
-##
-<!--
-![Image of Smile](https://github.com/Divya-mariyam/Emoji_Smile/smile.png) -->
+Keep Smiling!
 <img src="https://github.com/Divya-mariyam/Emoji_Smile/blob/master/smile.png">
