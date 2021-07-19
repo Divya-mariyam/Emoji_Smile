@@ -5,4 +5,4 @@ Using HTML and CSS.
 ##
 <!--
 ![Image of Smile](https://github.com/Divya-mariyam/Emoji_Smile/smile.png) -->
-<img src="https://github.com/Divya-mariyam/Emoji-Smile/smile.png">
+<img src="https://github.com/Divya-mariyam/Emoji_Smile/blob/master/smile.png">
