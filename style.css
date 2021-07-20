@@ -1,0 +1,39 @@
+.emoji{
+height: 120px;
+width: 120px;
+background: #ffcc4d;
+border-radius: 50%;
+position: relative;
+margin: 0 auto;
+}
+
+.emoji:after,
+.emoji:before{
+content: "";
+height: 25px;
+width: 16px;
+background: #664500;
+border-radius: 50%;
+position: absolute;
+top: 34px;
+}
+
+.emoji:after{
+left: 29px;
+}
+
+.emoji:before{
+right: 29px;
+}
+
+.emoji_smile{
+border-bottom: 10px solid #664500;
+border-radius: 20px;
+height: 35px;
+width: 50px;
+margin: 0 auto;
+position: absolute;
+left: 0;
+right: 0;
+bottom: 25px;
+}
